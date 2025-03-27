@@ -1,5 +1,5 @@
 # Shopping-Calculator
-![alt text](https://github.com/ThomasSchofield101/Shopping-Calculator/tree/main/Shopping/Screenshots/Menu.png "Menu")
+![Menu](Shopping/Screenshots/Menu.png)
 ![alt text](https://github.com/ThomasSchofield101/Shopping-Calculator/tree/main/Shopping/Screenshots/Plan.png "Plan")
 ![alt text](https://github.com/ThomasSchofield101/Shopping-Calculator/tree/main/Shopping/Screenshots/FileMenu.png "File Reader")
 ![alt text](https://github.com/ThomasSchofield101/Shopping-Calculator/tree/main/Shopping/Screenshots/SuccessfulReceipt.png "Receipt Read")
